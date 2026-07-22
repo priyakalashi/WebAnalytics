@@ -1,0 +1,10 @@
+Date,Device,Traffic_Source,Page_Views,Session_Duration,Conversions
+2026-01-01,Desktop,Google Search,1200,180,45
+2026-01-01,Mobile,Social Media,850,95,18
+2026-01-01,Tablet,Direct Traffic,150,110,5
+2026-01-02,Desktop,Google Search,1350,195,55
+2026-01-02,Mobile,Social Media,980,85,22
+2026-01-02,Tablet,Direct Traffic,160,115,4
+2026-01-03,Desktop,Google Search,1100,160,38
+2026-01-03,Mobile,Social Media,1250,105,35
+2026-01-03,Tablet,Direct Traffic,140,90,3
